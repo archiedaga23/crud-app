@@ -1,4 +1,5 @@
 ##crud-app
 Crud Todo List App
 
-** Hello Whats up**
+Technology used:
+  Node, Express, MongoDB, React + Typescript, Redux/toolkit
