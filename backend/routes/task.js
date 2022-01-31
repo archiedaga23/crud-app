@@ -1,4 +1,4 @@
-import { Router as router} from 'express';
+import { Router as router } from 'express';
 import Task from '../model/Task.js';
 
 router
