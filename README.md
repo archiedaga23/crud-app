@@ -1,5 +1,5 @@
-##crud-app
-Crud Todo List App
+## Todo List App CRUD Application
 
-Technology used:
-  Node, Express, MongoDB, React + Typescript, Redux/toolkit
+### Technolog used:
+
+#### Node, Express, MongoDB, React + Typescript, Redux/Toolkit, React-Bootstrap
