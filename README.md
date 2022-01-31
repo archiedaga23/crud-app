@@ -3,3 +3,8 @@
 ### Technology used:
 
 #### Node, Express, MongoDB, React + Typescript, Redux/Toolkit, React-Bootstrap
+
+
+```
+  npm install
+```
