@@ -1,7 +1,7 @@
 ## CRUD Application
 
 ## About
-  ##### This is my Todo list application where the user could create, read, update, delete Todos.
+  ##### This is my Todo list application where the user could create, read, update, delete, and display all todos.
 
 ## Technology used:
 
