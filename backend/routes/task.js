@@ -1,7 +1,5 @@
-import { Router } from 'express';
+import { Router as router} from 'express';
 import Task from '../model/Task.js';
-
-const router = Router();
 
 router
     .get('/', async (req, res) => {
